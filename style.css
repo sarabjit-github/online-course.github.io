@@ -114,8 +114,19 @@ body {
     color: var(--primary);
 }
 
-
-
+.developer{
+    text-align: center;
+    padding: 1rem 0;
+}
+.developer h3{
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: var(--secondary);
+}
+.developer h3 a{
+    text-decoration: none;
+    color: var(--primary);
+}
 
 
 
